@@ -1,0 +1,76 @@
+
+header{
+    background-color: grey;
+    color: blue;
+}
+section{
+    background-color: blue;
+    color: yellow;
+ 
+}
+footer{
+    background-color: orange;
+    color: brown;
+}
+body{ 
+    background-color: pink;
+    color: purple;
+
+}
+
+
+
+    
+
+.sectionstyles{
+    background-color: chartreuse;
+}
+#h1styles{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+/*nav menu styling*/
+
+ul>li{
+
+  background-color: rgb(34, 182, 162);
+  
+    list-style: none;
+    display: inline;
+    
+    
+}
+ul{
+    list-style: none;
+    display: block;
+}
+    
+
+
+ul>li>a{
+    text-decoration: blue;
+    color: green;
+    background-color: pink;
+    padding: 5px;
+margin-left: 4px;
+display: inline;
+
+    
+
+}
+ul>li>a:hover{
+    color:green;
+    background-color:rgb(140, 211, 32);
+
+
+    
+
+
+}
+.seclected{
+    color:green;
+    background-color: rgb(204, 28, 28);
+    
+}
+
